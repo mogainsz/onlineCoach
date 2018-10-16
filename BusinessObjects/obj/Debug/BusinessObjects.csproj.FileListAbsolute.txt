@@ -1,0 +1,12 @@
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln - Copy\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\Mo\Documents\Year 3\SEM 2\infosys 280\A2\onlineCoachSln - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb

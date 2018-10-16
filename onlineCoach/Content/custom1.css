@@ -1,0 +1,100 @@
+﻿.cont {
+    border: 0px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: gray;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    min-height: 410px;
+}
+
+.info {
+    background-color: antiquewhite;
+    border: 0px;
+    border-style: solid;
+    border-radius: 10px;
+    padding-left: 2%;
+}
+
+
+
+.title {
+    padding-top: 2%;
+    text-align: center;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    padding-bottom: 1%;
+    width: 100%;
+}
+
+
+
+.field {
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.button {
+    display: block;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.infoP {
+    background-color: floralwhite;
+    border: 0px;
+    border-style: solid;
+    border-radius: 10px;
+    padding-left: 2%;
+    padding-bottom: 4%;
+    padding-top: 4%
+}
+
+.infoP1 {
+    background-color: floralwhite;
+    border: 5px;
+    border-style: solid;
+    border-radius: 0px;
+    padding-left: 2%;
+    padding-top: 4%
+}
+
+.cntr {
+    text-align: center;
+}
+
+.saveCont {
+    background-color: floralwhite;
+    border: 0px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.editButton {
+    width: 100%;
+}
+
+.panelText {
+    padding-top: 0.5%;
+}
+
+.panelText1 {
+    padding-top: 3%;
+}
+
+.gridBorder {
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #D9230F;
+    border-right: 1px;
+}
+
+.gridHeader {
+    background-color: #D9230F;
+    
+}
